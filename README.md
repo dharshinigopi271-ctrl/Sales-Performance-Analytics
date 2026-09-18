@@ -1,4 +1,4 @@
-# Retail POS Sales Analysis — Excel Capstone (FY 2024-25)
+# Retail POS Sales Analysis — Excel Project (FY 2024-25)
 
 Cleaning and analysing one fiscal year of point-of-sale transactions from a retail
 business, starting from a raw Tally export and ending with a validated dataset and
@@ -156,5 +156,5 @@ would produce a more colourful project and a less truthful one.
 ## Author
 
 **Dharshini **
-Excel Data Analytics Capstone Project
+Excel Data Analytics Project
 
